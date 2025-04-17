@@ -1,0 +1,48 @@
+{
+    "from": "ccwikiproject",
+    "ulid": "01JR856324RZ1DCQD67S750AC5",
+    "name": "cc.wiki.project.v4.data",
+    "version": "0.0.0.1",
+    "routes": [
+        {
+            "path": "entries",
+            "name": "",
+            "items": [
+                {
+                    "path": "test",
+                    "name": ""
+                }
+            ]
+        },
+        {
+            "path": "news",
+            "name": "",
+            "items": [
+                {
+                    "path": "test",
+                    "name": ""
+                }
+            ]
+        },
+        {
+            "path": "security",
+            "name": "",
+            "items": [
+                {
+                    "path": "test",
+                    "name": ""
+                }
+            ]
+        },
+        {
+            "path": "pulse",
+            "name": "",
+            "items": [
+                {
+                    "path": "test",
+                    "name": ""
+                }
+            ]
+        }
+    ]
+}
